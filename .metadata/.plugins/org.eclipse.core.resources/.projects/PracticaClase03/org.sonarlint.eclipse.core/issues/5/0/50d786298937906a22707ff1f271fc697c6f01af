@@ -1,0 +1,22 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÂ¨å8Æ¿ºéİ/HŒRMAJORZ
+CODE_SMELL
+ˆ
+java:S1192"SDefine a constant instead of duplicating this literal " es mÃºltiplo de 5" 3 times.(ÁŠõ$8±»·¼Ş/HRCRITICALZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(˜Û¾ğşÿÿÿÿ8è¼Ş/H‘RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÁŠõ$8ª‚±¼Ş/H’RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H“RMINORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(€å‰Çøÿÿÿÿ8±»·¼Ş/H”RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH•RINFOZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Í­‰€úÿÿÿÿ8è¼Ş/H–RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¡‚ÿÑûÿÿÿÿ8è¼Ş/H—RMAJORZ
+CODE_SMELL

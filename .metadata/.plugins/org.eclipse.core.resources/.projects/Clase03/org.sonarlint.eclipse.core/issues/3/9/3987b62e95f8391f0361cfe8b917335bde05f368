@@ -1,0 +1,66 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‘‘Ú°úÿÿÿÿ8¼±è¥Ü/HôRMAJORZ
+CODE_SMELL
+p	java:S106|"9Replace this use of System.out or System.err by a logger.(£õÿ‹ıÿÿÿÿ8İëä§Ü/HêRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(û¹¤õşÿÿÿÿ8Ê¾’¨Ü/HşRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(‘‘Ú°úÿÿÿÿ8›’¦Ü/HèRMAJORZ
+CODE_SMELL
+p	java:S106?"9Replace this use of System.out or System.err by a logger.(ÊäÈÄÿÿÿÿÿ8›’¦Ü/HóRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÉRMINORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(çÏòºúÿÿÿÿ8Ò´’§Ü/HÏRMAJORZ
+CODE_SMELL
+`
+java:S1125*"(Remove the unnecessary boolean literals.(úĞ¾çÿÿÿÿÿ8¼±è¥Ü/HûRMINORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(ÊäÈÄÿÿÿÿÿ8›’¦Ü/HúRMAJORZ
+CODE_SMELL
+k	java:S106x"9Replace this use of System.out or System.err by a logger.(Ñä×…8İëä§Ü/HéRMAJORZ
+CODE_SMELL
+s	java:S125H"<This block of commented-out lines of code should be removed.(íÇ—£ıÿÿÿÿ8à‘€¨Ü/HäRMAJORZ
+CODE_SMELL
+j
+java:S1854$"7Remove this useless assignment to local variable "msj".(Ü­ğ8ğÁá¥Ü/HùRMAJORZ
+CODE_SMELL
+p	java:S106F"9Replace this use of System.out or System.err by a logger.(ÕÅ¤‘øÿÿÿÿ8Ò´’§Ü/HıRMAJORZ
+CODE_SMELL
+n	java:S125W"<This block of commented-out lines of code should be removed.(²ç³Ÿ8¡ş”§Ü/HõRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(åç¼ê8™îÃ¥Ü/HËRMAJORZ
+CODE_SMELL
+s	java:S125o"<This block of commented-out lines of code should be removed.(ı£‰üıÿÿÿÿ8ÈÊæ§Ü/HİRMAJORZ
+CODE_SMELL
+p
+java:S1854B"8Remove this useless assignment to local variable "cont".(Ü·†Èûÿÿÿÿ8›’¦Ü/HëRMAJORZ
+CODE_SMELL
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(Úú°Êûÿÿÿÿ8¼±è¥Ü/HãRMAJORZ
+CODE_SMELL
+‡
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¥ÍòÕ8ÇË¨Ü/HíRMINORZ
+CODE_SMELL
+s	java:S125	"<This block of commented-out lines of code should be removed.(äÎ†¤ÿÿÿÿÿ8—³¥Ü/HÇRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHâRINFOZ
+CODE_SMELL
+n	java:S1252"<This block of commented-out lines of code should be removed.(åì€œ8¾ñ†¦Ü/HÆRMAJORZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(ÊäÈÄÿÿÿÿÿ8Çˆ•¦Ü/HáRMAJORZ
+CODE_SMELL
+p	java:S106A"9Replace this use of System.out or System.err by a logger.(ÊäÈÄÿÿÿÿÿ8¶ŞÔ¥Ü/HìRMAJORZ
+CODE_SMELL
+n	java:S125`"<This block of commented-out lines of code should be removed.(«¹ùñ8¥ıÒ§Ü/HÑRMAJORZ
+CODE_SMELL
+Š	java:S127}"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Ê¾’¨Ü/HòRMAJORZ
+CODE_SMELL
+p
+java:S1854D"8Remove this useless assignment to local variable "cont".(ˆ¼ÂÇøÿÿÿÿ8à‘€¨Ü/HÊRMAJORZ
+CODE_SMELL
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(ô‘½ô8Çˆ•¦Ü/HĞRMAJORZ
+CODE_SMELL
+s	java:S125R"<This block of commented-out lines of code should be removed.(ÍãµÀøÿÿÿÿ8¡ş”§Ü/HîRMAJORZ
+CODE_SMELL

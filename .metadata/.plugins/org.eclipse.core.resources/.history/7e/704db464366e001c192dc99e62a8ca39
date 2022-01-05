@@ -1,0 +1,44 @@
+import java.util.Scanner;
+
+public class Ejercicio6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//Escribe un programa que calcule la media de un conjunto de números positivos
+		//introducidos por teclado. A priori, el programa no sabe cuántos números se introducirán. El
+		//usuario indicará que ha terminado de introducir los datos cuando meta un número negativo.
+		
+		Scanner teclado = new Scanner(System.in);
+		int n = 0;
+		int cont = 0;
+		int suma = 0;
+		float division = 0;
+		
+		while(n >= 0) {
+			
+			System.out.println("Ingrese un número: ");
+			n = teclado.nextInt();		
+				
+			cont++;
+			System.out.println("cont:" + cont);
+			
+			suma = suma + n;
+			System.out.println("suma:" + suma);
+			
+			if(n < 0 ) {
+				//sumar numeros dividido el total de numeros
+				division = suma / cont;
+				System.out.println("La media es : " + division);
+				System.out.println("El programa finalizó");
+				break;
+			}
+			
+		}
+		
+	
+		
+		
+	}
+
+}

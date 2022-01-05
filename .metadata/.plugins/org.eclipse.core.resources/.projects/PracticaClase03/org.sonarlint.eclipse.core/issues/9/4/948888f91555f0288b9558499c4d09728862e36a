@@ -1,0 +1,16 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(±Ö“ô8¯¥îÜâ/H‰RMAJORZ
+CODE_SMELL
+Z
+java:S1125"'Remove the unnecessary boolean literal.(ƒªïä8¹ÌäÝâ/H·RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Øî©¸üÿÿÿÿ8ùÛêÜâ/H¤RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHêRINFOZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„ê½Û8´²÷÷ß/HéRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HíRMINORZ
+CODE_SMELL

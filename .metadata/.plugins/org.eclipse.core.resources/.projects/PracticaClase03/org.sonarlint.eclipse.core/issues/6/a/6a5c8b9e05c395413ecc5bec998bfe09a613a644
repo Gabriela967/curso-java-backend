@@ -1,0 +1,17 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(œºÚÜ8ÀØ¦½Ş/HœRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHRINFOZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(óÓÁ®ıÿÿÿÿ8Ææ­½Ş/HŸRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(óå×À8ó´´½Ş/H¢RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¯èğüÿÿÿÿ8ÀØ¦½Ş/H¡RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ºğŸ‘8Ææ­½Ş/HRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H RMINORZ
+CODE_SMELL

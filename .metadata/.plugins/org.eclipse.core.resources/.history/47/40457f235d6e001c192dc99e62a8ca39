@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Ejercicio9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Escribe un programa que diga si un número introducido por teclado es o no primo. Un
+		//número primo es aquel que sólo es divisible entre él mismo y la unidad.
+
+		Scanner teclado = new Scanner(System.in);
+		System.out.println("Ingrese un número: ");
+		int n = teclado.nextInt();
+		
+		if(n == 0 || n == 1 || n == 4) {
+			System.out.println("El número ingresado no es primo.");
+		}
+		for(int i = 2 ; i < n / 2 ; i++) {
+			if(n % i == 0) {
+			   System.out.println("El número ingresado no es primo.");
+			}
+		}
+		System.out.println("El número es primo.");
+		
+	}
+
+}

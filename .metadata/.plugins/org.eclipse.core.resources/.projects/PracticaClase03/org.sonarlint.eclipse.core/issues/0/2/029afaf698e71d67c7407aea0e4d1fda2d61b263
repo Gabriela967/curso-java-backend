@@ -1,0 +1,14 @@
+
+F
+java:S1220""Move this file to a named package.HôRMINORZ
+CODE_SMELL
+º
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Ì‚ˆÌ8®”õ¼Ş/HõRMAJORZ
+CODE_SMELL
+	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8®”õ¼Ş/HöRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‡îí¼Ş/HùRINFOZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¤Í¶8¤¾ù¼Ş/HúRMAJORZ
+CODE_SMELL

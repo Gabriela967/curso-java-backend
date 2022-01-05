@@ -1,0 +1,13 @@
+
+F
+java:S1220""Move this file to a named package.H¯RMINORZ
+CODE_SMELL
+n
+java:S3518":Make sure "cont" can't be zero before doing this division.(Ş£ú‡şÿÿÿÿ8¾Ì£×â/HúRCRITICALZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„ê½Û8äÇÇÖâ/H…RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH®RINFOZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(êõ´ûÿÿÿÿ8äÇÇÖâ/H‰RMAJORZ
+CODE_SMELL
